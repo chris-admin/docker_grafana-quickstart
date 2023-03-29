@@ -1,6 +1,6 @@
 ## Info
 
-Simple grafana testenvironment with docker. 
+Simple grafana testenvironment with docker to viszualize a mysql database
 
 ## start the container
 > docker-compose up -d
